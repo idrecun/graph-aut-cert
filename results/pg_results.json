@@ -1,0 +1,228 @@
+[
+ {
+  "family": "pg",
+  "instance": "pg2-2",
+  "graph_size": 14,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/pg/pg2-2",
+  "solve_time": 0,
+  "aut_size": 7,
+  "solve_result": "OK",
+  "solve_wall_ms": 20,
+  "prove_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/pg/pg2-2",
+  "unpruned_rule_count": 1954,
+  "unpruned_proof_bytes": 37794,
+  "rule_count": 1105,
+  "proof_bytes": 22083,
+  "proof_gen_time": 0,
+  "proof_prune_time": 3,
+  "prove_time": 4,
+  "prove_memory": 18492,
+  "prove_result": "OK",
+  "prove_wall_ms": 20,
+  "verify_input": "/home/idrecun/repos/algebraic-gi/tests/pg/pg2-2.proof",
+  "verify_time": 1,
+  "verify_memory": 18492,
+  "verify_result": "OK",
+  "verify_wall_ms": 20
+ },
+ {
+  "family": "pg",
+  "instance": "pg2-3",
+  "graph_size": 26,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/pg/pg2-3",
+  "solve_time": 0,
+  "aut_size": 9,
+  "solve_result": "OK",
+  "solve_wall_ms": 20,
+  "prove_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/pg/pg2-3",
+  "unpruned_rule_count": 8939,
+  "unpruned_proof_bytes": 177349,
+  "rule_count": 5079,
+  "proof_bytes": 105225,
+  "proof_gen_time": 2,
+  "proof_prune_time": 3,
+  "prove_time": 6,
+  "prove_memory": 18492,
+  "prove_result": "OK",
+  "prove_wall_ms": 20,
+  "verify_input": "/home/idrecun/repos/algebraic-gi/tests/pg/pg2-3.proof",
+  "verify_time": 4,
+  "verify_memory": 18492,
+  "verify_result": "OK",
+  "verify_wall_ms": 20
+ },
+ {
+  "family": "pg",
+  "instance": "pg2-4",
+  "graph_size": 42,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/pg/pg2-4",
+  "solve_time": 1,
+  "aut_size": 11,
+  "solve_result": "OK",
+  "solve_wall_ms": 20,
+  "prove_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/pg/pg2-4",
+  "unpruned_rule_count": 35006,
+  "unpruned_proof_bytes": 700110,
+  "rule_count": 18310,
+  "proof_bytes": 383700,
+  "proof_gen_time": 8,
+  "proof_prune_time": 4,
+  "prove_time": 12,
+  "prove_memory": 18492,
+  "prove_result": "OK",
+  "prove_wall_ms": 20,
+  "verify_input": "/home/idrecun/repos/algebraic-gi/tests/pg/pg2-4.proof",
+  "verify_time": 8,
+  "verify_memory": 18492,
+  "verify_result": "OK",
+  "verify_wall_ms": 20
+ },
+ {
+  "family": "pg",
+  "instance": "pg2-5",
+  "graph_size": 62,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/pg/pg2-5",
+  "solve_time": 20,
+  "aut_size": 10,
+  "solve_result": "OK",
+  "solve_wall_ms": 40,
+  "prove_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/pg/pg2-5",
+  "unpruned_rule_count": 1026322,
+  "unpruned_proof_bytes": 21990516,
+  "rule_count": 127214,
+  "proof_bytes": 3166430,
+  "proof_gen_time": 202,
+  "proof_prune_time": 15,
+  "prove_time": 218,
+  "prove_memory": 49628,
+  "prove_result": "OK",
+  "prove_wall_ms": 243,
+  "verify_input": "/home/idrecun/repos/algebraic-gi/tests/pg/pg2-5.proof",
+  "verify_time": 38,
+  "verify_memory": 37876,
+  "verify_result": "OK",
+  "verify_wall_ms": 40
+ },
+ {
+  "family": "pg",
+  "instance": "pg2-7",
+  "graph_size": 114,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "pg",
+  "instance": "pg2-8",
+  "graph_size": 146,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "pg",
+  "instance": "pg2-9",
+  "graph_size": 182,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "pg",
+  "instance": "pg2-11",
+  "graph_size": 266,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "pg",
+  "instance": "pg2-13",
+  "graph_size": 366,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "pg",
+  "instance": "pg2-16",
+  "graph_size": 546,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "pg",
+  "instance": "pg2-17",
+  "graph_size": 614,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "pg",
+  "instance": "pg2-19",
+  "graph_size": 762,
+  "solve_wall_ms": 5020,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "pg",
+  "instance": "pg2-23",
+  "graph_size": 1106,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "pg",
+  "instance": "pg2-25",
+  "graph_size": 1302,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "pg",
+  "instance": "pg2-27",
+  "graph_size": 1514,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "pg",
+  "instance": "pg2-29",
+  "graph_size": 1742,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "pg",
+  "instance": "pg2-31",
+  "graph_size": 1986,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "pg",
+  "instance": "pg2-32",
+  "graph_size": 2114,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "pg",
+  "instance": "pg2-37",
+  "graph_size": 2814,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "pg",
+  "instance": "pg2-41",
+  "graph_size": 3446,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "pg",
+  "instance": "pg2-43",
+  "graph_size": 3786,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "pg",
+  "instance": "pg2-47",
+  "graph_size": 4514,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "pg",
+  "instance": "pg2-49",
+  "graph_size": 4902,
+  "result": "Skipped: over vertex limit"
+ }
+]

@@ -1,0 +1,378 @@
+[
+ {
+  "family": "had-sw",
+  "instance": "had-sw-20",
+  "graph_size": 80,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/had-sw/had-sw-20",
+  "solve_time": 7,
+  "aut_size": 8,
+  "solve_result": "OK",
+  "solve_wall_ms": 20,
+  "prove_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/had-sw/had-sw-20",
+  "unpruned_rule_count": 3060648,
+  "unpruned_proof_bytes": 87691896,
+  "rule_count": 476335,
+  "proof_bytes": 13526863,
+  "proof_gen_time": 604,
+  "proof_prune_time": 48,
+  "prove_time": 653,
+  "prove_memory": 151792,
+  "prove_result": "OK",
+  "prove_wall_ms": 666,
+  "verify_input": "/home/idrecun/repos/algebraic-gi/tests/had-sw/had-sw-20.proof",
+  "verify_time": 197,
+  "verify_memory": 142092,
+  "verify_result": "OK",
+  "verify_wall_ms": 202
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-32-1",
+  "graph_size": 128,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-32-10",
+  "graph_size": 128,
+  "solve_wall_ms": 5020,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-32-11",
+  "graph_size": 128,
+  "solve_wall_ms": 5020,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-32-2",
+  "graph_size": 128,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-32-3",
+  "graph_size": 128,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-32-4",
+  "graph_size": 128,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-32-5",
+  "graph_size": 128,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-32-6",
+  "graph_size": 128,
+  "solve_wall_ms": 5000,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-32-7",
+  "graph_size": 128,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-32-8",
+  "graph_size": 128,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-32-9",
+  "graph_size": 128,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-36-1",
+  "graph_size": 144,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-36-10",
+  "graph_size": 144,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-36-11",
+  "graph_size": 144,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-36-2",
+  "graph_size": 144,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-36-3",
+  "graph_size": 144,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-36-4",
+  "graph_size": 144,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-36-5",
+  "graph_size": 144,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-36-6",
+  "graph_size": 144,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-36-7",
+  "graph_size": 144,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-36-8",
+  "graph_size": 144,
+  "solve_wall_ms": 5020,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-36-9",
+  "graph_size": 144,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-40",
+  "graph_size": 160,
+  "solve_wall_ms": 5020,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-40-1",
+  "graph_size": 160,
+  "solve_wall_ms": 5020,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-40-10",
+  "graph_size": 160,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-40-11",
+  "graph_size": 160,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-40-2",
+  "graph_size": 160,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-40-3",
+  "graph_size": 160,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-40-4",
+  "graph_size": 160,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-40-5",
+  "graph_size": 160,
+  "solve_wall_ms": 5020,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-40-6",
+  "graph_size": 160,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-40-7",
+  "graph_size": 160,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-40-8",
+  "graph_size": 160,
+  "solve_wall_ms": 5020,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-40-9",
+  "graph_size": 160,
+  "solve_wall_ms": 5020,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-44-1",
+  "graph_size": 176,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-44-10",
+  "graph_size": 176,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-44-11",
+  "graph_size": 176,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-44-2",
+  "graph_size": 176,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-44-3",
+  "graph_size": 176,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-44-4",
+  "graph_size": 176,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-44-5",
+  "graph_size": 176,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-44-6",
+  "graph_size": 176,
+  "solve_wall_ms": 5020,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-44-7",
+  "graph_size": 176,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-44-8",
+  "graph_size": 176,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-44-9",
+  "graph_size": 176,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-56",
+  "graph_size": 224,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-64",
+  "graph_size": 256,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-88",
+  "graph_size": 352,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-96",
+  "graph_size": 384,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "had-sw",
+  "instance": "had-sw-112",
+  "graph_size": 448,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ }
+]

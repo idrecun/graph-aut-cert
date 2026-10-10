@@ -1,0 +1,251 @@
+[
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-4",
+  "graph_size": 96,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/mz-aug2/mz-aug2-4",
+  "solve_time": 1,
+  "aut_size": 11,
+  "solve_result": "OK",
+  "solve_wall_ms": 20,
+  "prove_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/mz-aug2/mz-aug2-4",
+  "unpruned_rule_count": 1195955,
+  "unpruned_proof_bytes": 22557991,
+  "rule_count": 456672,
+  "proof_bytes": 9680792,
+  "proof_gen_time": 178,
+  "proof_prune_time": 18,
+  "prove_time": 197,
+  "prove_memory": 81368,
+  "prove_result": "OK",
+  "prove_wall_ms": 222,
+  "verify_input": "/home/idrecun/repos/algebraic-gi/tests/mz-aug2/mz-aug2-4.proof",
+  "verify_time": 132,
+  "verify_memory": 115844,
+  "verify_result": "OK",
+  "verify_wall_ms": 141
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-6",
+  "graph_size": 144,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/mz-aug2/mz-aug2-6",
+  "solve_time": 5,
+  "aut_size": 15,
+  "solve_result": "OK",
+  "solve_wall_ms": 20,
+  "prove_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/mz-aug2/mz-aug2-6",
+  "unpruned_rule_count": 8238843,
+  "unpruned_proof_bytes": 147410635,
+  "rule_count": 1498302,
+  "proof_bytes": 31786248,
+  "proof_gen_time": 1187,
+  "proof_prune_time": 79,
+  "prove_time": 1267,
+  "prove_memory": 396444,
+  "prove_result": "OK",
+  "prove_wall_ms": 1313,
+  "verify_input": "/home/idrecun/repos/algebraic-gi/tests/mz-aug2/mz-aug2-6.proof",
+  "verify_time": 421,
+  "verify_memory": 352528,
+  "verify_result": "OK",
+  "verify_wall_ms": 424
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-8",
+  "graph_size": 192,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/mz-aug2/mz-aug2-8",
+  "solve_time": 36,
+  "aut_size": 19,
+  "solve_result": "OK",
+  "solve_wall_ms": 40,
+  "prove_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/mz-aug2/mz-aug2-8",
+  "unpruned_rule_count": 51413443,
+  "unpruned_proof_bytes": 891951519,
+  "rule_count": 3527242,
+  "proof_bytes": 74983174,
+  "proof_gen_time": 7200,
+  "proof_prune_time": 285,
+  "prove_time": 7486,
+  "prove_memory": 1907748,
+  "prove_result": "OK",
+  "prove_wall_ms": 7598,
+  "verify_input": "/home/idrecun/repos/algebraic-gi/tests/mz-aug2/mz-aug2-8.proof",
+  "verify_time": 975,
+  "verify_memory": 808360,
+  "verify_result": "OK",
+  "verify_wall_ms": 990
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-10",
+  "graph_size": 240,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/mz-aug2/mz-aug2-10",
+  "solve_time": 136,
+  "aut_size": 23,
+  "solve_result": "OK",
+  "solve_wall_ms": 141,
+  "prove_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/mz-aug2/mz-aug2-10",
+  "unpruned_rule_count": 305534891,
+  "unpruned_proof_bytes": 5232954019,
+  "rule_count": 6979636,
+  "proof_bytes": 149210562,
+  "proof_gen_time": 42229,
+  "proof_prune_time": 2292,
+  "prove_time": 44522,
+  "prove_memory": 10336716,
+  "prove_result": "OK",
+  "prove_wall_ms": 44741,
+  "verify_input": "/home/idrecun/repos/algebraic-gi/tests/mz-aug2/mz-aug2-10.proof",
+  "verify_time": 1911,
+  "verify_memory": 1585440,
+  "verify_result": "OK",
+  "verify_wall_ms": 1921
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-12",
+  "graph_size": 288,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/mz-aug2/mz-aug2-12",
+  "solve_time": 657,
+  "aut_size": 27,
+  "solve_result": "OK",
+  "solve_wall_ms": 665,
+  "prove_wall_ms": 180348,
+  "prove_result": "Timeout"
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-14",
+  "graph_size": 336,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/mz-aug2/mz-aug2-14",
+  "solve_time": 3292,
+  "aut_size": 31,
+  "solve_result": "OK",
+  "solve_wall_ms": 3306,
+  "prove_wall_ms": 180352,
+  "prove_result": "Timeout"
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-16",
+  "graph_size": 384,
+  "solve_wall_ms": 5019,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-18",
+  "graph_size": 432,
+  "solve_wall_ms": 5020,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-20",
+  "graph_size": 480,
+  "solve_wall_ms": 5020,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-22",
+  "graph_size": 528,
+  "solve_wall_ms": 5020,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-24",
+  "graph_size": 576,
+  "solve_wall_ms": 5000,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-26",
+  "graph_size": 624,
+  "solve_wall_ms": 5020,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-28",
+  "graph_size": 672,
+  "solve_wall_ms": 5020,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-30",
+  "graph_size": 720,
+  "solve_wall_ms": 5020,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-32",
+  "graph_size": 768,
+  "solve_wall_ms": 5020,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-34",
+  "graph_size": 816,
+  "solve_wall_ms": 5020,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-36",
+  "graph_size": 864,
+  "solve_wall_ms": 5020,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-38",
+  "graph_size": 912,
+  "solve_wall_ms": 5020,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-40",
+  "graph_size": 960,
+  "solve_wall_ms": 5020,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-42",
+  "graph_size": 1008,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-44",
+  "graph_size": 1056,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-46",
+  "graph_size": 1104,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-48",
+  "graph_size": 1152,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "mz-aug2",
+  "instance": "mz-aug2-50",
+  "graph_size": 1200,
+  "result": "Skipped: over vertex limit"
+ }
+]

@@ -1,0 +1,477 @@
+[
+ {
+  "family": "cmz",
+  "instance": "cmz-5",
+  "graph_size": 120,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/cmz/cmz-5",
+  "solve_time": 2,
+  "aut_size": 13,
+  "solve_result": "OK",
+  "solve_wall_ms": 20,
+  "prove_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/cmz/cmz-5",
+  "unpruned_rule_count": 2036529,
+  "unpruned_proof_bytes": 38741331,
+  "rule_count": 866855,
+  "proof_bytes": 18342403,
+  "proof_gen_time": 334,
+  "proof_prune_time": 32,
+  "prove_time": 367,
+  "prove_memory": 128148,
+  "prove_result": "OK",
+  "prove_wall_ms": 404,
+  "verify_input": "/home/idrecun/repos/algebraic-gi/tests/cmz/cmz-5.proof",
+  "verify_time": 281,
+  "verify_memory": 208224,
+  "verify_result": "OK",
+  "verify_wall_ms": 303
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-6",
+  "graph_size": 144,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/cmz/cmz-6",
+  "solve_time": 5,
+  "aut_size": 15,
+  "solve_result": "OK",
+  "solve_wall_ms": 20,
+  "prove_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/cmz/cmz-6",
+  "unpruned_rule_count": 4858799,
+  "unpruned_proof_bytes": 89654897,
+  "rule_count": 1482099,
+  "proof_bytes": 31376177,
+  "proof_gen_time": 836,
+  "proof_prune_time": 59,
+  "prove_time": 895,
+  "prove_memory": 287804,
+  "prove_result": "OK",
+  "prove_wall_ms": 950,
+  "verify_input": "/home/idrecun/repos/algebraic-gi/tests/cmz/cmz-6.proof",
+  "verify_time": 473,
+  "verify_memory": 348012,
+  "verify_result": "OK",
+  "verify_wall_ms": 485
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-7",
+  "graph_size": 168,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/cmz/cmz-7",
+  "solve_time": 11,
+  "aut_size": 17,
+  "solve_result": "OK",
+  "solve_wall_ms": 20,
+  "prove_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/cmz/cmz-7",
+  "unpruned_rule_count": 11525229,
+  "unpruned_proof_bytes": 207128547,
+  "rule_count": 2337738,
+  "proof_bytes": 49517856,
+  "proof_gen_time": 1901,
+  "proof_prune_time": 104,
+  "prove_time": 2005,
+  "prove_memory": 548228,
+  "prove_result": "OK",
+  "prove_wall_ms": 2083,
+  "verify_input": "/home/idrecun/repos/algebraic-gi/tests/cmz/cmz-7.proof",
+  "verify_time": 732,
+  "verify_memory": 539748,
+  "verify_result": "OK",
+  "verify_wall_ms": 748
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-8",
+  "graph_size": 192,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/cmz/cmz-8",
+  "solve_time": 26,
+  "aut_size": 19,
+  "solve_result": "OK",
+  "solve_wall_ms": 40,
+  "prove_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/cmz/cmz-8",
+  "unpruned_rule_count": 27441547,
+  "unpruned_proof_bytes": 483346153,
+  "rule_count": 3477209,
+  "proof_bytes": 73711833,
+  "proof_gen_time": 4412,
+  "proof_prune_time": 206,
+  "prove_time": 4619,
+  "prove_memory": 1128492,
+  "prove_result": "OK",
+  "prove_wall_ms": 4733,
+  "verify_input": "/home/idrecun/repos/algebraic-gi/tests/cmz/cmz-8.proof",
+  "verify_time": 1109,
+  "verify_memory": 796892,
+  "verify_result": "OK",
+  "verify_wall_ms": 1132
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-9",
+  "graph_size": 216,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/cmz/cmz-9",
+  "solve_time": 60,
+  "aut_size": 21,
+  "solve_result": "OK",
+  "solve_wall_ms": 61,
+  "prove_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/cmz/cmz-9",
+  "unpruned_rule_count": 65512361,
+  "unpruned_proof_bytes": 1138139299,
+  "rule_count": 4948283,
+  "proof_bytes": 105020731,
+  "proof_gen_time": 10474,
+  "proof_prune_time": 391,
+  "prove_time": 10866,
+  "prove_memory": 2447740,
+  "prove_result": "OK",
+  "prove_wall_ms": 11027,
+  "verify_input": "/home/idrecun/repos/algebraic-gi/tests/cmz/cmz-9.proof",
+  "verify_time": 1555,
+  "verify_memory": 1128456,
+  "verify_result": "OK",
+  "verify_wall_ms": 1579
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-10",
+  "graph_size": 240,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/cmz/cmz-10",
+  "solve_time": 147,
+  "aut_size": 23,
+  "solve_result": "OK",
+  "solve_wall_ms": 161,
+  "prove_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/cmz/cmz-10",
+  "unpruned_rule_count": 156135239,
+  "unpruned_proof_bytes": 2688950161,
+  "rule_count": 6808669,
+  "proof_bytes": 144780239,
+  "proof_gen_time": 24497,
+  "proof_prune_time": 790,
+  "prove_time": 25287,
+  "prove_memory": 5495272,
+  "prove_result": "OK",
+  "prove_wall_ms": 25493,
+  "verify_input": "/home/idrecun/repos/algebraic-gi/tests/cmz/cmz-10.proof",
+  "verify_time": 2098,
+  "verify_memory": 1546240,
+  "verify_result": "OK",
+  "verify_wall_ms": 2103
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-11",
+  "graph_size": 264,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/cmz/cmz-11",
+  "solve_time": 318,
+  "aut_size": 25,
+  "solve_result": "OK",
+  "solve_wall_ms": 323,
+  "prove_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/cmz/cmz-11",
+  "unpruned_rule_count": 370065669,
+  "unpruned_proof_bytes": 6339896595,
+  "rule_count": 9134634,
+  "proof_bytes": 194845316,
+  "proof_gen_time": 60842,
+  "proof_prune_time": 2913,
+  "prove_time": 63756,
+  "prove_memory": 12578816,
+  "prove_result": "OK",
+  "prove_wall_ms": 64063,
+  "verify_input": "/home/idrecun/repos/algebraic-gi/tests/cmz/cmz-11.proof",
+  "verify_time": 2824,
+  "verify_memory": 2068228,
+  "verify_result": "OK",
+  "verify_wall_ms": 2831
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-12",
+  "graph_size": 288,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/cmz/cmz-12",
+  "solve_time": 703,
+  "aut_size": 27,
+  "solve_result": "OK",
+  "solve_wall_ms": 706,
+  "prove_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/cmz/cmz-12",
+  "unpruned_rule_count": 870241571,
+  "unpruned_proof_bytes": 14863258985,
+  "rule_count": 12040927,
+  "proof_bytes": 258163443,
+  "proof_gen_time": 145232,
+  "proof_prune_time": 10218,
+  "prove_time": 155451,
+  "prove_memory": 28335884,
+  "prove_result": "OK",
+  "prove_wall_ms": 155834,
+  "verify_input": "/home/idrecun/repos/algebraic-gi/tests/cmz/cmz-12.proof",
+  "verify_time": 3642,
+  "verify_memory": 2723972,
+  "verify_result": "OK",
+  "verify_wall_ms": 3660
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-13",
+  "graph_size": 312,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/cmz/cmz-13",
+  "solve_time": 1547,
+  "aut_size": 29,
+  "solve_result": "OK",
+  "solve_wall_ms": 1553,
+  "prove_wall_ms": 180232,
+  "prove_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-14",
+  "graph_size": 336,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/cmz/cmz-14",
+  "solve_time": 3457,
+  "aut_size": 31,
+  "solve_result": "OK",
+  "solve_wall_ms": 3490,
+  "prove_wall_ms": 180389,
+  "prove_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-15",
+  "graph_size": 360,
+  "solve_wall_ms": 5003,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-16",
+  "graph_size": 384,
+  "solve_wall_ms": 5003,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-17",
+  "graph_size": 408,
+  "solve_wall_ms": 5006,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-18",
+  "graph_size": 432,
+  "solve_wall_ms": 5005,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-19",
+  "graph_size": 456,
+  "solve_wall_ms": 5004,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-20",
+  "graph_size": 480,
+  "solve_wall_ms": 5005,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-21",
+  "graph_size": 504,
+  "solve_wall_ms": 5005,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-22",
+  "graph_size": 528,
+  "solve_wall_ms": 5005,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-23",
+  "graph_size": 552,
+  "solve_wall_ms": 5005,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-24",
+  "graph_size": 576,
+  "solve_wall_ms": 5006,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-25",
+  "graph_size": 600,
+  "solve_wall_ms": 5005,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-26",
+  "graph_size": 624,
+  "solve_wall_ms": 5006,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-27",
+  "graph_size": 648,
+  "solve_wall_ms": 5006,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-28",
+  "graph_size": 672,
+  "solve_wall_ms": 5006,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-29",
+  "graph_size": 696,
+  "solve_wall_ms": 5006,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-30",
+  "graph_size": 720,
+  "solve_wall_ms": 5006,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-31",
+  "graph_size": 744,
+  "solve_wall_ms": 5009,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-32",
+  "graph_size": 768,
+  "solve_wall_ms": 5012,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-33",
+  "graph_size": 792,
+  "solve_wall_ms": 5002,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-34",
+  "graph_size": 816,
+  "solve_wall_ms": 5017,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-35",
+  "graph_size": 840,
+  "solve_wall_ms": 5009,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-36",
+  "graph_size": 864,
+  "solve_wall_ms": 5014,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-37",
+  "graph_size": 888,
+  "solve_wall_ms": 5006,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-38",
+  "graph_size": 912,
+  "solve_wall_ms": 5003,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-39",
+  "graph_size": 936,
+  "solve_wall_ms": 5002,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-40",
+  "graph_size": 960,
+  "solve_wall_ms": 5002,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-41",
+  "graph_size": 984,
+  "solve_wall_ms": 5002,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-42",
+  "graph_size": 1008,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-43",
+  "graph_size": 1032,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-44",
+  "graph_size": 1056,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-45",
+  "graph_size": 1080,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-46",
+  "graph_size": 1104,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-47",
+  "graph_size": 1128,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-48",
+  "graph_size": 1152,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-49",
+  "graph_size": 1176,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "cmz",
+  "instance": "cmz-50",
+  "graph_size": 1200,
+  "result": "Skipped: over vertex limit"
+ }
+]

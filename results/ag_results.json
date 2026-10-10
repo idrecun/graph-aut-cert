@@ -1,0 +1,247 @@
+[
+ {
+  "family": "ag",
+  "instance": "ag2-2",
+  "graph_size": 10,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/ag/ag2-2",
+  "solve_time": 0,
+  "aut_size": 4,
+  "solve_result": "OK",
+  "solve_wall_ms": 20,
+  "prove_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/ag/ag2-2",
+  "unpruned_rule_count": 1179,
+  "unpruned_proof_bytes": 22333,
+  "rule_count": 772,
+  "proof_bytes": 14578,
+  "proof_gen_time": 0,
+  "proof_prune_time": 3,
+  "prove_time": 3,
+  "prove_memory": 18492,
+  "prove_result": "OK",
+  "prove_wall_ms": 20,
+  "verify_input": "/home/idrecun/repos/algebraic-gi/tests/ag/ag2-2.proof",
+  "verify_time": 1,
+  "verify_memory": 18492,
+  "verify_result": "OK",
+  "verify_wall_ms": 20
+ },
+ {
+  "family": "ag",
+  "instance": "ag2-3",
+  "graph_size": 21,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/ag/ag2-3",
+  "solve_time": 0,
+  "aut_size": 6,
+  "solve_result": "OK",
+  "solve_wall_ms": 20,
+  "prove_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/ag/ag2-3",
+  "unpruned_rule_count": 7738,
+  "unpruned_proof_bytes": 151510,
+  "rule_count": 5339,
+  "proof_bytes": 106053,
+  "proof_gen_time": 1,
+  "proof_prune_time": 3,
+  "prove_time": 5,
+  "prove_memory": 18492,
+  "prove_result": "OK",
+  "prove_wall_ms": 20,
+  "verify_input": "/home/idrecun/repos/algebraic-gi/tests/ag/ag2-3.proof",
+  "verify_time": 5,
+  "verify_memory": 18492,
+  "verify_result": "OK",
+  "verify_wall_ms": 20
+ },
+ {
+  "family": "ag",
+  "instance": "ag2-4",
+  "graph_size": 36,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/ag/ag2-4",
+  "solve_time": 1,
+  "aut_size": 8,
+  "solve_result": "OK",
+  "solve_wall_ms": 20,
+  "prove_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/ag/ag2-4",
+  "unpruned_rule_count": 35751,
+  "unpruned_proof_bytes": 708951,
+  "rule_count": 23747,
+  "proof_bytes": 479473,
+  "proof_gen_time": 28,
+  "proof_prune_time": 5,
+  "prove_time": 33,
+  "prove_memory": 18492,
+  "prove_result": "OK",
+  "prove_wall_ms": 41,
+  "verify_input": "/home/idrecun/repos/algebraic-gi/tests/ag/ag2-4.proof",
+  "verify_time": 16,
+  "verify_memory": 18492,
+  "verify_result": "OK",
+  "verify_wall_ms": 20
+ },
+ {
+  "family": "ag",
+  "instance": "ag2-5",
+  "graph_size": 55,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/ag/ag2-5",
+  "solve_time": 1,
+  "aut_size": 6,
+  "solve_result": "OK",
+  "solve_wall_ms": 20,
+  "prove_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/ag/ag2-5",
+  "unpruned_rule_count": 444078,
+  "unpruned_proof_bytes": 9068306,
+  "rule_count": 103686,
+  "proof_bytes": 2241712,
+  "proof_gen_time": 84,
+  "proof_prune_time": 9,
+  "prove_time": 94,
+  "prove_memory": 26792,
+  "prove_result": "OK",
+  "prove_wall_ms": 101,
+  "verify_input": "/home/idrecun/repos/algebraic-gi/tests/ag/ag2-5.proof",
+  "verify_time": 31,
+  "verify_memory": 32876,
+  "verify_result": "OK",
+  "verify_wall_ms": 40
+ },
+ {
+  "family": "ag",
+  "instance": "ag2-7",
+  "graph_size": 105,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/ag/ag2-7",
+  "solve_time": 367,
+  "aut_size": 6,
+  "solve_result": "OK",
+  "solve_wall_ms": 383,
+  "prove_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/ag/ag2-7",
+  "unpruned_rule_count": 474820159,
+  "unpruned_proof_bytes": 9903193391,
+  "rule_count": 18188190,
+  "proof_bytes": 506745790,
+  "proof_gen_time": 73542,
+  "proof_prune_time": 10117,
+  "prove_time": 83660,
+  "prove_memory": 17214032,
+  "prove_result": "OK",
+  "prove_wall_ms": 83717,
+  "verify_input": "/home/idrecun/repos/algebraic-gi/tests/ag/ag2-7.proof",
+  "verify_time": 6232,
+  "verify_memory": 4349168,
+  "verify_result": "OK",
+  "verify_wall_ms": 6248
+ },
+ {
+  "family": "ag",
+  "instance": "ag2-8",
+  "graph_size": 136,
+  "solve_wall_ms": 5004,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "ag",
+  "instance": "ag2-9",
+  "graph_size": 171,
+  "solve_wall_ms": 5002,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "ag",
+  "instance": "ag2-11",
+  "graph_size": 253,
+  "solve_wall_ms": 5002,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "ag",
+  "instance": "ag2-13",
+  "graph_size": 351,
+  "solve_wall_ms": 5003,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "ag",
+  "instance": "ag2-16",
+  "graph_size": 528,
+  "solve_wall_ms": 5006,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "ag",
+  "instance": "ag2-17",
+  "graph_size": 595,
+  "solve_wall_ms": 5001,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "ag",
+  "instance": "ag2-19",
+  "graph_size": 741,
+  "solve_wall_ms": 5004,
+  "solve_result": "Timeout"
+ },
+ {
+  "family": "ag",
+  "instance": "ag2-23",
+  "graph_size": 1081,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "ag",
+  "instance": "ag2-25",
+  "graph_size": 1275,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "ag",
+  "instance": "ag2-27",
+  "graph_size": 1485,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "ag",
+  "instance": "ag2-29",
+  "graph_size": 1711,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "ag",
+  "instance": "ag2-31",
+  "graph_size": 1953,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "ag",
+  "instance": "ag2-32",
+  "graph_size": 2080,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "ag",
+  "instance": "ag2-37",
+  "graph_size": 2775,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "ag",
+  "instance": "ag2-41",
+  "graph_size": 3403,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "ag",
+  "instance": "ag2-43",
+  "graph_size": 3741,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "ag",
+  "instance": "ag2-47",
+  "graph_size": 4465,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "ag",
+  "instance": "ag2-49",
+  "graph_size": 4851,
+  "result": "Skipped: over vertex limit"
+ }
+]

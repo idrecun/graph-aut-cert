@@ -1,0 +1,728 @@
+[
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-1000-1",
+  "graph_size": 1000,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/rnd-3-reg/rnd-3-reg-1000-1",
+  "solve_time": 230,
+  "aut_size": 1,
+  "solve_result": "OK",
+  "solve_wall_ms": 242,
+  "prove_wall_ms": 180612,
+  "prove_result": "Timeout"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-1000-10",
+  "graph_size": 1000,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/rnd-3-reg/rnd-3-reg-1000-10",
+  "solve_time": 171,
+  "aut_size": 1,
+  "solve_result": "OK",
+  "solve_wall_ms": 181,
+  "prove_wall_ms": 180439,
+  "prove_result": "Timeout"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-1000-11",
+  "graph_size": 1000,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/rnd-3-reg/rnd-3-reg-1000-11",
+  "solve_time": 214,
+  "aut_size": 1,
+  "solve_result": "OK",
+  "solve_wall_ms": 221,
+  "prove_wall_ms": 180528,
+  "prove_result": "Timeout"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-1000-2",
+  "graph_size": 1000,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/rnd-3-reg/rnd-3-reg-1000-2",
+  "solve_time": 180,
+  "aut_size": 1,
+  "solve_result": "OK",
+  "solve_wall_ms": 201,
+  "prove_wall_ms": 180508,
+  "prove_result": "Timeout"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-1000-3",
+  "graph_size": 1000,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/rnd-3-reg/rnd-3-reg-1000-3",
+  "solve_time": 212,
+  "aut_size": 1,
+  "solve_result": "OK",
+  "solve_wall_ms": 221,
+  "prove_wall_ms": 180525,
+  "prove_result": "Timeout"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-1000-4",
+  "graph_size": 1000,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/rnd-3-reg/rnd-3-reg-1000-4",
+  "solve_time": 201,
+  "aut_size": 1,
+  "solve_result": "OK",
+  "solve_wall_ms": 221,
+  "prove_wall_ms": 180607,
+  "prove_result": "Timeout"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-1000-5",
+  "graph_size": 1000,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/rnd-3-reg/rnd-3-reg-1000-5",
+  "solve_time": 200,
+  "aut_size": 1,
+  "solve_result": "OK",
+  "solve_wall_ms": 221,
+  "prove_wall_ms": 180647,
+  "prove_result": "Timeout"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-1000-6",
+  "graph_size": 1000,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/rnd-3-reg/rnd-3-reg-1000-6",
+  "solve_time": 176,
+  "aut_size": 1,
+  "solve_result": "OK",
+  "solve_wall_ms": 181,
+  "prove_wall_ms": 180392,
+  "prove_result": "Timeout"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-1000-7",
+  "graph_size": 1000,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/rnd-3-reg/rnd-3-reg-1000-7",
+  "solve_time": 212,
+  "aut_size": 1,
+  "solve_result": "OK",
+  "solve_wall_ms": 221,
+  "prove_wall_ms": 180627,
+  "prove_result": "Timeout"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-1000-8",
+  "graph_size": 1000,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/rnd-3-reg/rnd-3-reg-1000-8",
+  "solve_time": 203,
+  "aut_size": 1,
+  "solve_result": "OK",
+  "solve_wall_ms": 221,
+  "prove_wall_ms": 180646,
+  "prove_result": "Timeout"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-1000-9",
+  "graph_size": 1000,
+  "solve_input": "/home/idrecun/repos/algebraic-gi/graphs/undirected_dim/rnd-3-reg/rnd-3-reg-1000-9",
+  "solve_time": 207,
+  "aut_size": 1,
+  "solve_result": "OK",
+  "solve_wall_ms": 221,
+  "prove_wall_ms": 180647,
+  "prove_result": "Timeout"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-2000-1",
+  "graph_size": 2000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-2000-10",
+  "graph_size": 2000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-2000-11",
+  "graph_size": 2000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-2000-2",
+  "graph_size": 2000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-2000-3",
+  "graph_size": 2000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-2000-4",
+  "graph_size": 2000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-2000-5",
+  "graph_size": 2000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-2000-6",
+  "graph_size": 2000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-2000-7",
+  "graph_size": 2000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-2000-8",
+  "graph_size": 2000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-2000-9",
+  "graph_size": 2000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-3000-1",
+  "graph_size": 3000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-3000-10",
+  "graph_size": 3000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-3000-11",
+  "graph_size": 3000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-3000-2",
+  "graph_size": 3000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-3000-3",
+  "graph_size": 3000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-3000-4",
+  "graph_size": 3000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-3000-5",
+  "graph_size": 3000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-3000-6",
+  "graph_size": 3000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-3000-7",
+  "graph_size": 3000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-3000-8",
+  "graph_size": 3000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-3000-9",
+  "graph_size": 3000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-4000-1",
+  "graph_size": 4000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-4000-10",
+  "graph_size": 4000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-4000-11",
+  "graph_size": 4000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-4000-2",
+  "graph_size": 4000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-4000-3",
+  "graph_size": 4000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-4000-4",
+  "graph_size": 4000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-4000-5",
+  "graph_size": 4000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-4000-6",
+  "graph_size": 4000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-4000-7",
+  "graph_size": 4000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-4000-8",
+  "graph_size": 4000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-4000-9",
+  "graph_size": 4000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-5000-1",
+  "graph_size": 5000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-5000-10",
+  "graph_size": 5000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-5000-11",
+  "graph_size": 5000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-5000-2",
+  "graph_size": 5000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-5000-3",
+  "graph_size": 5000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-5000-4",
+  "graph_size": 5000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-5000-5",
+  "graph_size": 5000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-5000-6",
+  "graph_size": 5000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-5000-7",
+  "graph_size": 5000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-5000-8",
+  "graph_size": 5000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-5000-9",
+  "graph_size": 5000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-6000-1",
+  "graph_size": 6000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-6000-10",
+  "graph_size": 6000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-6000-11",
+  "graph_size": 6000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-6000-2",
+  "graph_size": 6000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-6000-3",
+  "graph_size": 6000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-6000-4",
+  "graph_size": 6000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-6000-5",
+  "graph_size": 6000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-6000-6",
+  "graph_size": 6000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-6000-7",
+  "graph_size": 6000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-6000-8",
+  "graph_size": 6000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-6000-9",
+  "graph_size": 6000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-7000-1",
+  "graph_size": 7000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-7000-10",
+  "graph_size": 7000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-7000-11",
+  "graph_size": 7000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-7000-2",
+  "graph_size": 7000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-7000-3",
+  "graph_size": 7000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-7000-4",
+  "graph_size": 7000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-7000-5",
+  "graph_size": 7000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-7000-6",
+  "graph_size": 7000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-7000-7",
+  "graph_size": 7000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-7000-8",
+  "graph_size": 7000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-7000-9",
+  "graph_size": 7000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-8000-1",
+  "graph_size": 8000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-8000-10",
+  "graph_size": 8000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-8000-11",
+  "graph_size": 8000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-8000-2",
+  "graph_size": 8000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-8000-3",
+  "graph_size": 8000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-8000-4",
+  "graph_size": 8000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-8000-5",
+  "graph_size": 8000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-8000-6",
+  "graph_size": 8000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-8000-7",
+  "graph_size": 8000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-8000-8",
+  "graph_size": 8000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-8000-9",
+  "graph_size": 8000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-9000-1",
+  "graph_size": 9000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-9000-10",
+  "graph_size": 9000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-9000-11",
+  "graph_size": 9000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-9000-2",
+  "graph_size": 9000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-9000-3",
+  "graph_size": 9000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-9000-4",
+  "graph_size": 9000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-9000-5",
+  "graph_size": 9000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-9000-6",
+  "graph_size": 9000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-9000-7",
+  "graph_size": 9000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-9000-8",
+  "graph_size": 9000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-9000-9",
+  "graph_size": 9000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-10000-1",
+  "graph_size": 10000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-10000-10",
+  "graph_size": 10000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-10000-11",
+  "graph_size": 10000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-10000-2",
+  "graph_size": 10000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-10000-3",
+  "graph_size": 10000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-10000-4",
+  "graph_size": 10000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-10000-5",
+  "graph_size": 10000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-10000-6",
+  "graph_size": 10000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-10000-7",
+  "graph_size": 10000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-10000-8",
+  "graph_size": 10000,
+  "result": "Skipped: over vertex limit"
+ },
+ {
+  "family": "rnd-3-reg",
+  "instance": "rnd-3-reg-10000-9",
+  "graph_size": 10000,
+  "result": "Skipped: over vertex limit"
+ }
+]

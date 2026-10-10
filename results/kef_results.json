@@ -1,0 +1,68 @@
+[
+ {
+  "family": "kef",
+  "instance": "kef10",
+  "graph_size": 200,
+  "result": "Skipped: coloured graph"
+ },
+ {
+  "family": "kef",
+  "instance": "kef11",
+  "graph_size": 242,
+  "result": "Skipped: coloured graph"
+ },
+ {
+  "family": "kef",
+  "instance": "kef12",
+  "graph_size": 288,
+  "result": "Skipped: coloured graph"
+ },
+ {
+  "family": "kef",
+  "instance": "kef13",
+  "graph_size": 338,
+  "result": "Skipped: coloured graph"
+ },
+ {
+  "family": "kef",
+  "instance": "kef14",
+  "graph_size": 392,
+  "result": "Skipped: coloured graph"
+ },
+ {
+  "family": "kef",
+  "instance": "kef15",
+  "graph_size": 450,
+  "result": "Skipped: coloured graph"
+ },
+ {
+  "family": "kef",
+  "instance": "kef16",
+  "graph_size": 512,
+  "result": "Skipped: coloured graph"
+ },
+ {
+  "family": "kef",
+  "instance": "kef17",
+  "graph_size": 578,
+  "result": "Skipped: coloured graph"
+ },
+ {
+  "family": "kef",
+  "instance": "kef18",
+  "graph_size": 648,
+  "result": "Skipped: coloured graph"
+ },
+ {
+  "family": "kef",
+  "instance": "kef19",
+  "graph_size": 722,
+  "result": "Skipped: coloured graph"
+ },
+ {
+  "family": "kef",
+  "instance": "kef20",
+  "graph_size": 800,
+  "result": "Skipped: coloured graph"
+ }
+]
